@@ -1,5 +1,6 @@
 ﻿**Hola soy Karen Diaz**
- tengo 19 años y actual estudiante de ingenieria industrial.
+ -tengo 19 años y actual estudiante de ingenieria industrial.  
+ 
  *Aprendisaje*
  programar y aprendiendo ingles, 
  *intereses*
