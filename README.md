@@ -2,7 +2,7 @@
  
  -tengo 19 años y soy actual estudiante de ingenieria industrial.  
  
- *Aprendisaje*
+ *Aprendizaje*
  
  -Estoy aprendiendo a programar e ingles.
  
